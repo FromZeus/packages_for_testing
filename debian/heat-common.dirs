@@ -1,0 +1,5 @@
+var/log/heat
+var/lib/heat
+etc/heat
+etc/heat/environment.d
+etc/heat/templates
