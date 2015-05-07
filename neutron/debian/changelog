@@ -1,0 +1,19 @@
+neutron (1:2014.2.2-fuel6.1-14.04-3) trusty; urgency=medium
+
+  * Fixed patch for requirements.txt, removed upper bound for netaddr
+    because MOS mirros contains newer version (netaddr 0.7.14)
+
+ -- Sergey Kolekonov <skolekonov@mirantis.com>  Mon, 06 Apr 2015 16:47:51 +0300
+
+neutron (1:2014.2.2-fuel6.1-14.04-2) trusty; urgency=medium
+
+  * Updated specs according to upstream version 2014.2.2 [1]
+    [1] https://github.com/openstack/requirements/blob/stable/juno/global-requirements.txt
+
+ -- Sergey Kolekonov <skolekonov@mirantis.com>  Sun, 15 Mar 2015 21:59:56 +0300
+
+neutron (1:2014.2.2-fuel6.1-14.04-1) trusty; urgency=medium
+
+  * Updated specs for Ubuntu 14.04
+
+ -- Sergey Kolekonov <skolekonov@mirantis.com>  Fri, 20 Feb 2015 18:10:43 +0300

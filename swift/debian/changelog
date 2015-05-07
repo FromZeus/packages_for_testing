@@ -1,0 +1,5 @@
+swift (2.2.0-fuel6.1-14.04-1) trusty; urgency=medium
+
+  * Build swift for Ubuntu 14.04 from 2.2.0 tag
+
+ -- Ivan Berezovskiy <iberezovskiy@mirantis.com>  Tue, 24 Feb 2015 13:12:18 +0300
